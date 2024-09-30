@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+springaoptutorial/.settings/org.eclipse.jdt.apt.core.prefs
+springaoptutorial/.settings/org.eclipse.jdt.core.prefs
+springaoptutorial/.settings/org.eclipse.m2e.core.prefs
+springaoptutorial/.settings/org.eclipse.wst.common.component
+springaoptutorial/.settings/org.eclipse.wst.common.project.facet.core.xml
+springaoptutorial/.settings/org.eclipse.wst.validation.prefs
